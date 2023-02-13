@@ -1,4 +1,4 @@
-# ProjectAspire
+## ProjectAspire
 Internal training software for CS:GO
 
 ## Background
@@ -6,7 +6,7 @@ I was working on this for quite a while. Some of the code isn't very well writte
 
 ## Final additions
 Prior to releasing the source, here is the final changelog by me:
-- Fixed significant aimbot bug that prevented lock on
+```- Fixed significant aimbot bug that prevented lock on
 - Fixed config saving / loading
 - Fixed triggerbot delay
 - Added custom aimbot target selection (Crosshair, Distance, Health)
@@ -16,6 +16,7 @@ Prior to releasing the source, here is the final changelog by me:
 - Config name is now unique to you (i.e: 1887394722)
 
 Todo:
-- Fixed VAC bans from occurring when using
+- Fixed possible VAC bans from occurring when using
 - Fixed random crashes
 - Fixed ESP showing in first-person spectate
+```
